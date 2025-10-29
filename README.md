@@ -23,14 +23,17 @@ CommandAliasVelocity 是一个轻量级但功能强大的 Minecraft Paper Veloci
     权限管理 - 精细的权限控制，确保服务器安全
      命令列表
      
-        #命令            描述            权限            默认
-        /careload        重载命令别名配置    commandalias.reload    OP[/CODE]
+        #命令            描述            权限                     
+        /careload       重载命令别名配置  服务器(该未注册入velocity)  
+        /careload
+        /caliasreload
+        /car
   权限节点
       这个呢...嗯...去服务器执行/careload, /caliasreload, /car 才能重载（没注册到velocity的指令里面）
   配置说明
   插件配置文件位于 plugins/commandaliasvelocity/aliases.yml
-  
-    aliases:
+  aliases:
+    
       # 简单命令别名
       - "别名:原命令"
       - "传送:tpa"
