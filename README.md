@@ -35,12 +35,12 @@ CommandAliasVelocity 是一个轻量级但功能强大的 Minecraft Paper Veloci
   aliases:
     
       # 简单命令别名
-      - "别名:原命令"
+      # "别名:原命令"
       - "传送:tpa"
       - "t:tpa"
-      # 带子命令的别名
-      - "stp tp:teleport"
-      - "stp time:time set"
+      # 带子命令的别名(这个功能暂时用不了)
+      - "stptp:teleport"
+      - "stptime:time set"
       
 安装方法
         下载CommandAliasVelocity1.0.0.jar 文件
@@ -61,7 +61,7 @@ CommandAliasVelocity 是一个轻量级但功能强大的 Minecraft Paper Veloci
 
 高级用法
 
-    子命令支持："stp tp:teleport" 可以让 /stp tp &lt;玩家&gt; 执行 /teleport &lt;玩家&gt;（二创作者没看懂，保留吧）
+    子命令支持："stp tp:teleport" 可以让 /stp tp &lt;玩家&gt; 执行 /teleport &lt;玩家&gt;（二创的作者没看懂，保留吧）
     参数传递：所有参数都会自动传递到原命令
     多级别名：支持复杂的多级命令别名设置
 
