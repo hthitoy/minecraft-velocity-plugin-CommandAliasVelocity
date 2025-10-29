@@ -24,7 +24,7 @@ CommandAliasVelocity 是一个轻量级但功能强大的 Minecraft Paper Veloci
      命令列表
      
         #命令            描述            权限                     
-        /careload       重载命令别名配置  服务器(该未注册入velocity)  
+        /careload       重载命令别名配置  使用代理端执行  有op权限也不行(因为该指令没有注册入velocity)  
         /careload
         /caliasreload
         /car
