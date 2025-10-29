@@ -1,6 +1,8 @@
 # minecraft-velocity-plugin-CommandAliasVelocity
 A command alias plugin on velocity
-Releases are in CommandAliasVelocity/build/libs/
+
+Releases are in CommandAliasVelocity/build/libs/xxxxxx.jar
+
 原作者A2whatever33，原作是MIT协议，下面都是基本上都是照搬的介绍。我改的这个velocity版本的我没有测试很多。
 
 
@@ -84,7 +86,7 @@ CommandAliasVelocity 是一个轻量级但功能强大的 Minecraft Paper Veloci
     安全可靠 - 不修改核心文件，确保服务器稳定
     持续更新 - 我这个人呢 不知道会不会 如果能联系到我的话可以更新 这是第一回做插件
 
-我修不好我就跑路:( 
+有什么问题的话,我要是修不好我就跑路:( 
 
 大家快快去支持原作者A2whatever33。
 
