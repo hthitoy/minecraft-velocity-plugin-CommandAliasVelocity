@@ -1,0 +1,8 @@
+{
+  "id": "commandaliasvelocity",
+  "name": "CommandAliasVelocity",
+  "version": "1.0.0",
+  "description": "A lightweight command alias plugin for Velocity",
+  "authors": ["meoowtoy"],
+  "main": "com.meoowtoy.commandaliasvelocity.CommandAliasVelocityPlugin"
+}
